@@ -1,0 +1,1612 @@
+1651649406063	geckodriver	INFO	Listening on 127.0.0.1:39301
+1651649406299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53375" "-no-remote" "-profile" "/tmp/rust_mozprofileJramFI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651649416177	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJramFI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53375/devtools/browser/655f58ab-c8a1-48ba-be49-91de486f416d
+1651649429858	Marionette	INFO	Listening on port 33633
+1651649430476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651649445498	Marionette	INFO	Stopped listening on port 33633
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651649539423	geckodriver	INFO	Listening on 127.0.0.1:55183
+1651649539934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56807" "-no-remote" "-profile" "/tmp/rust_mozprofileOpEawG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651649544371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOpEawG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56807/devtools/browser/4e179eac-5f07-4c31-b2db-f107b64cb92d
+1651649550274	Marionette	INFO	Listening on port 34913
+1651649550412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1651649554335	Marionette	INFO	Stopped listening on port 34913
+console.error: "Could not load engine amazondotcom@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+ExceptionHandler::GenerateDump cloned child 33970
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1651649795088	geckodriver	INFO	Listening on 127.0.0.1:39525
+1651649795603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53637" "-no-remote" "-profile" "/tmp/rust_mozprofileHY1Dhc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651649801077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHY1Dhc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53637/devtools/browser/c0112304-41a6-4435-8804-081c9d693784
+1651649807070	Marionette	INFO	Listening on port 33813
+1651649807170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651649814279	Marionette	INFO	Stopped listening on port 33813
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651649948568	geckodriver	INFO	Listening on 127.0.0.1:57181
+1651649948577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57937" "-no-remote" "-profile" "/tmp/rust_mozprofileu7lxAc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651649953143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu7lxAc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57937/devtools/browser/d0cb9592-3d08-4f15-ae3a-5a31dfa4dbd1
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651649960024	Marionette	INFO	Listening on port 36849
+1651649960198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651649967522	Marionette	INFO	Stopped listening on port 36849
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651650044259	geckodriver	INFO	Listening on 127.0.0.1:37009
+1651650044270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42431" "-no-remote" "-profile" "/tmp/rust_mozprofileI7AOkZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651650048757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI7AOkZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42431/devtools/browser/086048d0-454c-453b-b24f-36a98b558a22
+1651650054637	Marionette	INFO	Listening on port 39407
+1651650054763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651650062198	Marionette	INFO	Stopped listening on port 39407
+1651650095279	geckodriver	INFO	Listening on 127.0.0.1:46837
+1651650095794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35699" "-no-remote" "-profile" "/tmp/rust_mozprofileYa4dmI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651650100267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYa4dmI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35699/devtools/browser/e96dd915-e6da-4c7f-9229-7d0c6ef1e524
+1651650106096	Marionette	INFO	Listening on port 44329
+1651650106709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651650115771	Marionette	INFO	Stopped listening on port 44329
+1651650241218	geckodriver	INFO	Listening on 127.0.0.1:37569
+1651650241732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55069" "-no-remote" "-profile" "/tmp/rust_mozprofilearOX5r"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651650246120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilearOX5r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55069/devtools/browser/f5024dcb-e16a-4b9b-9f38-094e0ab065ec
+1651650251922	Marionette	INFO	Listening on port 45699
+1651650252110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651650259269	Marionette	INFO	Stopped listening on port 45699
+1651650275829	geckodriver	INFO	Listening on 127.0.0.1:32805
+1651650276342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54331" "-no-remote" "-profile" "/tmp/rust_mozprofile7lU52j"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651650280658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7lU52j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54331/devtools/browser/b24ab210-e3a5-40aa-bfa6-50d0ec9b63b8
+1651650286725	Marionette	INFO	Listening on port 45103
+1651650287075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651650300754	Marionette	INFO	Stopped listening on port 45103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651650308551	geckodriver	INFO	Listening on 127.0.0.1:52225
+1651650309063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59687" "-no-remote" "-profile" "/tmp/rust_mozprofileAK6PNh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651650313387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAK6PNh/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:59687/devtools/browser/32cfe774-54f7-4f35-b0e2-d876664a1d37
+1651650320480	Marionette	INFO	Listening on port 44299
+1651650320622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651650335604	Marionette	INFO	Stopped listening on port 44299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651651001762	geckodriver	INFO	Listening on 127.0.0.1:47115
+1651651002197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42251" "-no-remote" "-profile" "/tmp/rust_mozprofileJfplGO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651651006744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJfplGO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42251/devtools/browser/ee3cb8e7-1b5e-46b4-857b-ee5b16100143
+1651651012655	Marionette	INFO	Listening on port 43299
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651651013594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651651025985	Marionette	INFO	Stopped listening on port 43299
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651651071590	geckodriver	INFO	Listening on 127.0.0.1:45207
+1651651072055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38981" "-no-remote" "-profile" "/tmp/rust_mozprofileIdDi0G"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651651077028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIdDi0G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38981/devtools/browser/95b18eee-0e40-49cb-bc6f-27537e8d9d1b
+1651651083172	Marionette	INFO	Listening on port 38653
+1651651083225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651651091671	Marionette	INFO	Stopped listening on port 38653
+1651651111135	geckodriver	INFO	Listening on 127.0.0.1:54161
+1651651111148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54765" "-no-remote" "-profile" "/tmp/rust_mozprofileZjO0Ga"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651651115260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZjO0Ga/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54765/devtools/browser/cb785016-ac3e-4b1c-84e2-d7e91361f56a
+1651651121186	Marionette	INFO	Listening on port 45335
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651651121944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651651138008	Marionette	INFO	Stopped listening on port 45335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651651425463	geckodriver	INFO	Listening on 127.0.0.1:38829
+1651651425979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39999" "-no-remote" "-profile" "/tmp/rust_mozprofileGKkg9r"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651651431263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGKkg9r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39999/devtools/browser/b5ea543c-a025-4c46-baf3-888799622e81
+1651651436771	Marionette	INFO	Listening on port 35265
+1651651436895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651651451989	Marionette	INFO	Stopped listening on port 35265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651651538073	geckodriver	INFO	Listening on 127.0.0.1:53931
+1651651538081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35085" "-no-remote" "-profile" "/tmp/rust_mozprofileAOHN1L"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651651542338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAOHN1L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35085/devtools/browser/f09dab6a-fb2b-4de8-8189-8805b156d995
+1651651547745	Marionette	INFO	Listening on port 41201
+1651651547918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651651582722	Marionette	INFO	Stopped listening on port 41201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651651670099	geckodriver	INFO	Listening on 127.0.0.1:49991
+1651651670614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34071" "-no-remote" "-profile" "/tmp/rust_mozprofilenuPWsw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651651674986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenuPWsw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34071/devtools/browser/700fd134-154d-41fa-aa80-7008cab5bea7
+1651651681207	Marionette	INFO	Listening on port 36411
+1651651681278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651651696841	Marionette	INFO	Stopped listening on port 36411
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651651890558	geckodriver	INFO	Listening on 127.0.0.1:37363
+1651651891074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56593" "-no-remote" "-profile" "/tmp/rust_mozprofileFf1dYR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651651895567	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFf1dYR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56593/devtools/browser/24229e78-e3fc-41e0-b91e-5b839efb58d6
+1651651901349	Marionette	INFO	Listening on port 44127
+1651651901446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651651911631	Marionette	INFO	Stopped listening on port 44127
+1651652141314	geckodriver	INFO	Listening on 127.0.0.1:41455
+1651652141322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46713" "-no-remote" "-profile" "/tmp/rust_mozprofileO8Y1ik"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652145708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO8Y1ik/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46713/devtools/browser/8b97b07b-5d86-4697-8fa2-093e25f26b33
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651652152349	Marionette	INFO	Listening on port 41115
+1651652152730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652160994	Marionette	INFO	Stopped listening on port 41115
+1651652202860	geckodriver	INFO	Listening on 127.0.0.1:59505
+1651652203375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40219" "-no-remote" "-profile" "/tmp/rust_mozprofileVssFxZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652207764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVssFxZ/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:40219/devtools/browser/995104b8-869c-444c-9e3f-61fe4ec53066
+1651652215064	Marionette	INFO	Listening on port 36941
+1651652215141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652229098	Marionette	INFO	Stopped listening on port 36941
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651652313249	geckodriver	INFO	Listening on 127.0.0.1:60001
+1651652313258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51373" "-no-remote" "-profile" "/tmp/rust_mozprofileqR94lZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652317599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqR94lZ/search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+
+###!!! [Parent][PProfilerParent] Error: RunMessage(msgname=PProfiler::Reply_Stop) Channel closing: too late to send/recv, messages will be lost
+
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 138: AbortError: IOUtils.profileBeforeChange getter: IOUtils: profileBeforeChange phase has already finished
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651652333725	geckodriver	INFO	Listening on 127.0.0.1:50613
+1651652334236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45941" "-no-remote" "-profile" "/tmp/rust_mozprofile5Cq65B"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652338566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Cq65B/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:45941/devtools/browser/ff68eceb-4680-4646-9541-e51045a9c3f7
+1651652345178	Marionette	INFO	Listening on port 36181
+1651652345287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652356508	Marionette	INFO	Stopped listening on port 36181
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651652476200	geckodriver	INFO	Listening on 127.0.0.1:60899
+1651652476715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47587" "-no-remote" "-profile" "/tmp/rust_mozprofilenZsvkr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652481347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenZsvkr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47587/devtools/browser/d62e4052-1b59-46a9-babd-3c9621d771c2
+1651652486657	Marionette	INFO	Listening on port 34925
+1651652486751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652506654	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651652506942	Marionette	INFO	Stopped listening on port 34925
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651652558058	geckodriver	INFO	Listening on 127.0.0.1:44257
+1651652558575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38579" "-no-remote" "-profile" "/tmp/rust_mozprofilecKUAWm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652562923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecKUAWm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38579/devtools/browser/cb9cc0e2-8580-42d7-86ca-ad1278cf947e
+1651652569068	Marionette	INFO	Listening on port 33091
+1651652569118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652588286	Marionette	INFO	Stopped listening on port 33091
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651652671784	geckodriver	INFO	Listening on 127.0.0.1:42591
+1651652672298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37291" "-no-remote" "-profile" "/tmp/rust_mozprofiley84Kgv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652676594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley84Kgv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37291/devtools/browser/e08148b1-a47b-4ef1-966e-4338a5501a5a
+1651652681892	Marionette	INFO	Listening on port 35389
+1651652681935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652696488	Marionette	INFO	Stopped listening on port 35389
+1651652742866	geckodriver	INFO	Listening on 127.0.0.1:45951
+1651652743378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41117" "-no-remote" "-profile" "/tmp/rust_mozprofileIg7Nzv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652747785	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIg7Nzv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41117/devtools/browser/3aa84396-74ac-43e9-a297-131107c1d86a
+1651652753871	Marionette	INFO	Listening on port 45111
+1651652754040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652762406	Marionette	INFO	Stopped listening on port 45111
+1651652847580	geckodriver	INFO	Listening on 127.0.0.1:39629
+1651652847589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36827" "-no-remote" "-profile" "/tmp/rust_mozprofilejGhH1q"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652852145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejGhH1q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36827/devtools/browser/a11c40c7-75e8-4cf8-9d61-5c783ad0f40a
+1651652858490	Marionette	INFO	Listening on port 36015
+1651652858560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651652874143	Marionette	INFO	Stopped listening on port 36015
+1651652995255	geckodriver	INFO	Listening on 127.0.0.1:42469
+1651652995263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37717" "-no-remote" "-profile" "/tmp/rust_mozprofileBZyhE5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651652999514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBZyhE5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37717/devtools/browser/817217c5-c6ac-44f4-9911-941bec94c132
+1651653005049	Marionette	INFO	Listening on port 46567
+1651653005148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651653015921	Marionette	INFO	Stopped listening on port 46567
+1651654810352	geckodriver	INFO	Listening on 127.0.0.1:42703
+1651654810360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45079" "-no-remote" "-profile" "/tmp/rust_mozprofileH3s7kf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651654814886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH3s7kf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45079/devtools/browser/48b2bb25-b137-4e5e-8706-c29bd1a86e70
+1651654820723	Marionette	INFO	Listening on port 41391
+1651654821861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651654881668	Marionette	INFO	Stopped listening on port 41391
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651654883659	geckodriver	INFO	Listening on 127.0.0.1:49127
+1651654883670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60135" "-no-remote" "-profile" "/tmp/rust_mozprofileb27THe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651654888062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb27THe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60135/devtools/browser/0b7bd12a-7860-49f2-9393-2899c8bf896c
+1651654893762	Marionette	INFO	Listening on port 46583
+1651654893835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651654902195	Marionette	INFO	Stopped listening on port 46583
+1651656130945	geckodriver	INFO	Listening on 127.0.0.1:45313
+1651656131458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47241" "-no-remote" "-profile" "/tmp/rust_mozprofilexNwsrT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651656135954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexNwsrT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47241/devtools/browser/8f7b23de-454b-41b9-b3ce-466b53fa4928
+1651656141583	Marionette	INFO	Listening on port 34783
+1651656141796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651656153084	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651656153864	Marionette	INFO	Stopped listening on port 34783
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1651656576333	geckodriver	INFO	Listening on 127.0.0.1:56859
+1651656576845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50211" "-no-remote" "-profile" "/tmp/rust_mozprofilect9q6N"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651656581163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilect9q6N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50211/devtools/browser/796f6b3f-6193-4bbc-8bd9-b9d9d03db289
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651656587801	Marionette	INFO	Listening on port 41423
+1651656588660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651656642453	Marionette	INFO	Stopped listening on port 41423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651656776990	geckodriver	INFO	Listening on 127.0.0.1:40201
+1651656776997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41839" "-no-remote" "-profile" "/tmp/rust_mozprofilekaJ34i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651656781439	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekaJ34i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41839/devtools/browser/2ef25895-90ef-4e63-b89b-0563cb5bb814
+1651656788126	Marionette	INFO	Listening on port 33211
+1651656788247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651656800125	Marionette	INFO	Stopped listening on port 33211
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1651657007003	geckodriver	INFO	Listening on 127.0.0.1:40191
+1651657007014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60655" "-no-remote" "-profile" "/tmp/rust_mozprofilekhiLQ5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651657011362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekhiLQ5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60655/devtools/browser/a4baa4e5-f0d2-413b-a483-afc865a4215b
+1651657017801	Marionette	INFO	Listening on port 35737
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651657017924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651657026464	Marionette	INFO	Stopped listening on port 35737
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651673904753	geckodriver	INFO	Listening on 127.0.0.1:40401
+1651673905149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36655" "-no-remote" "-profile" "/tmp/rust_mozprofilepfKyxR"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651673916949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepfKyxR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36655/devtools/browser/8dcf7f31-268b-4ef3-846c-b60c50383760
+1651673929208	Marionette	INFO	Listening on port 34081
+1651673929581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651673939587	Marionette	INFO	Stopped listening on port 34081
+1651674348391	geckodriver	INFO	Listening on 127.0.0.1:58149
+1651674348405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50549" "-no-remote" "-profile" "/tmp/rust_mozprofileDG916w"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651674352940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDG916w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50549/devtools/browser/b7a1ae57-31cd-428f-8e64-94ff2a2a21cb
+1651674359263	Marionette	INFO	Listening on port 45361
+1651674359403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651674369486	Marionette	INFO	Stopped listening on port 45361
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1651674439352	geckodriver	INFO	Listening on 127.0.0.1:40981
+1651674439363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35889" "-no-remote" "-profile" "/tmp/rust_mozprofileb9lVks"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651674443857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb9lVks/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35889/devtools/browser/e551d128-31f9-4b3d-b8ec-8287a191c38f
+1651674449115	Marionette	INFO	Listening on port 40677
+1651674449334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651674458079	Marionette	INFO	Stopped listening on port 40677
+1651674627896	geckodriver	INFO	Listening on 127.0.0.1:58307
+1651674628407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49017" "-no-remote" "-profile" "/tmp/rust_mozprofilemZ5o8s"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651674632709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemZ5o8s/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:49017/devtools/browser/975633b6-1fc8-49ef-a98f-994baa6f014d
+1651674640394	Marionette	INFO	Listening on port 43407
+1651674640988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651674651694	Marionette	INFO	Stopped listening on port 43407
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651674882226	geckodriver	INFO	Listening on 127.0.0.1:35707
+1651674882234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33697" "-no-remote" "-profile" "/tmp/rust_mozprofiletUSTLB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651674887084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletUSTLB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33697/devtools/browser/b2aa1ba3-66fe-4209-be93-d858e04ec381
+1651674893355	Marionette	INFO	Listening on port 45223
+1651674893480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651674901858	Marionette	INFO	Stopped listening on port 45223
+1651675099768	geckodriver	INFO	Listening on 127.0.0.1:34355
+1651675100215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48229" "-no-remote" "-profile" "/tmp/rust_mozprofileMigAqn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675104673	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMigAqn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48229/devtools/browser/ca5e6745-cb85-4f16-b1a5-c36b8f4472d9
+1651675110835	Marionette	INFO	Listening on port 44325
+1651675110910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675119465	Marionette	INFO	Stopped listening on port 44325
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651675220264	geckodriver	INFO	Listening on 127.0.0.1:49185
+1651675220782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45713" "-no-remote" "-profile" "/tmp/rust_mozprofile4RCaDI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675225650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4RCaDI/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:45713/devtools/browser/9509b3dd-6a9e-43f2-8f33-e4e2f840d099
+1651675232374	Marionette	INFO	Listening on port 34919
+1651675232435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675243228	Marionette	INFO	Stopped listening on port 34919
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651675249520	geckodriver	INFO	Listening on 127.0.0.1:36811
+1651675249979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51645" "-no-remote" "-profile" "/tmp/rust_mozprofilerrALXr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675256334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerrALXr/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:51645/devtools/browser/1b37161f-2b0e-4012-b808-a37dd4eb9cf4
+1651675264306	Marionette	INFO	Listening on port 46395
+1651675264396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675291939	Marionette	INFO	Stopped listening on port 46395
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651675297762	geckodriver	INFO	Listening on 127.0.0.1:47809
+1651675298284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55721" "-no-remote" "-profile" "/tmp/rust_mozprofileakfRfq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675302687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileakfRfq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55721/devtools/browser/716b355f-b5ad-4e19-9622-e2342dd12e06
+1651675308953	Marionette	INFO	Listening on port 38193
+1651675309020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675320322	Marionette	INFO	Stopped listening on port 38193
+1651675334873	geckodriver	INFO	Listening on 127.0.0.1:36251
+1651675335383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36177" "-no-remote" "-profile" "/tmp/rust_mozprofileLEw9Dj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675339853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLEw9Dj/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:36177/devtools/browser/d81f3a8a-48ea-4253-aec0-7c6639f2eebf
+1651675347157	Marionette	INFO	Listening on port 42925
+1651675347256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675356508	Marionette	INFO	Stopped listening on port 42925
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1651675531771	geckodriver	INFO	Listening on 127.0.0.1:47277
+1651675531778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36293" "-no-remote" "-profile" "/tmp/rust_mozprofileAi6jCS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675536234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAi6jCS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36293/devtools/browser/cb095ec7-0a8a-4736-84dd-55bc3dc4ab5a
+1651675542720	Marionette	INFO	Listening on port 38865
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651675542908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675548976	Marionette	INFO	Stopped listening on port 38865
+1651675755799	geckodriver	INFO	Listening on 127.0.0.1:35783
+1651675756312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49787" "-no-remote" "-profile" "/tmp/rust_mozprofilesvt0z0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675760699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesvt0z0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49787/devtools/browser/05865f5e-c133-4ad1-a479-c8f48917b388
+1651675767014	Marionette	INFO	Listening on port 46521
+1651675767342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675811457	Marionette	INFO	Stopped listening on port 46521
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651675848142	geckodriver	INFO	Listening on 127.0.0.1:36533
+1651675848559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59397" "-no-remote" "-profile" "/tmp/rust_mozprofileP1hVh7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651675853056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP1hVh7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59397/devtools/browser/131879f3-9882-4ea9-9fcd-6dc9fac33e11
+1651675858619	Marionette	INFO	Listening on port 41539
+1651675858709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651675904247	Marionette	INFO	Stopped listening on port 41539
+1651676064000	geckodriver	INFO	Listening on 127.0.0.1:42345
+1651676064513	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52897" "-no-remote" "-profile" "/tmp/rust_mozprofileRInOpT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676068849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRInOpT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52897/devtools/browser/75c217f1-4585-4dc7-b557-bbd96526dfbb
+1651676074936	Marionette	INFO	Listening on port 46687
+1651676075063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676121565	Marionette	INFO	Stopped listening on port 46687
+1651676314569	geckodriver	INFO	Listening on 127.0.0.1:53135
+1651676315082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51029" "-no-remote" "-profile" "/tmp/rust_mozprofileVJTZkM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676319484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVJTZkM/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:51029/devtools/browser/a0d0b4e3-5f64-43ed-bcd2-c9b5718dd781
+1651676327300	Marionette	INFO	Listening on port 36913
+1651676327404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676359324	Marionette	INFO	Stopped listening on port 36913
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651676400486	geckodriver	INFO	Listening on 127.0.0.1:48835
+1651676400494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33303" "-no-remote" "-profile" "/tmp/rust_mozprofileaBQQ9J"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676404828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaBQQ9J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33303/devtools/browser/cc54ea9f-0c26-439a-8641-021cd6f6b51a
+1651676411010	Marionette	INFO	Listening on port 34565
+1651676411061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676420791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1651676454519	geckodriver	INFO	Listening on 127.0.0.1:51113
+1651676454527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53603" "-no-remote" "-profile" "/tmp/rust_mozprofileDTMpWu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676459263	Marionette	INFO	Marionette enabled
+1651676459383	Marionette	INFO	Stopped listening on port 34565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDTMpWu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53603/devtools/browser/27cf80e5-b846-4f56-a5cc-654ec885a2ea
+1651676465606	Marionette	INFO	Listening on port 34729
+1651676465751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676476807	Marionette	INFO	Stopped listening on port 34729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651676511768	geckodriver	INFO	Listening on 127.0.0.1:41471
+1651676511777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58627" "-no-remote" "-profile" "/tmp/rust_mozprofileFCD34f"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676516493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFCD34f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58627/devtools/browser/39da8c6c-3908-47dd-a97f-08f4f2864eed
+1651676522264	Marionette	INFO	Listening on port 33489
+1651676522418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676533862	Marionette	INFO	Stopped listening on port 33489
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651676631705	geckodriver	INFO	Listening on 127.0.0.1:34945
+1651676632216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40869" "-no-remote" "-profile" "/tmp/rust_mozprofilewRlOc0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676636968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewRlOc0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40869/devtools/browser/20ab3e25-3d6b-4614-a641-ba594a045a54
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651676643589	Marionette	INFO	Listening on port 32941
+1651676643729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676655014	Marionette	INFO	Stopped listening on port 32941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651676673039	geckodriver	INFO	Listening on 127.0.0.1:56623
+1651676673049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38757" "-no-remote" "-profile" "/tmp/rust_mozprofilegE1osA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676677603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegE1osA/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:38757/devtools/browser/dba720bd-c96d-41ba-89c6-dae20da4d1b2
+1651676684725	Marionette	INFO	Listening on port 44417
+1651676684817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676732165	Marionette	INFO	Stopped listening on port 44417
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651676869797	geckodriver	INFO	Listening on 127.0.0.1:42621
+1651676870310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57291" "-no-remote" "-profile" "/tmp/rust_mozprofileT4oo9V"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651676874864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT4oo9V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57291/devtools/browser/06ace465-619a-435b-ba7a-dc1e8da3bc1f
+1651676880945	Marionette	INFO	Listening on port 42631
+1651676881077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651676928736	Marionette	INFO	Stopped listening on port 42631
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1651677206991	geckodriver	INFO	Listening on 127.0.0.1:34419
+1651677206999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57847" "-no-remote" "-profile" "/tmp/rust_mozprofileuwE0kJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651677211467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuwE0kJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57847/devtools/browser/98e2a696-bc0d-42bb-a819-fdf114e1af7a
+1651677217809	Marionette	INFO	Listening on port 39305
+1651677217884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651677264773	Marionette	INFO	Stopped listening on port 39305
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1651677389179	geckodriver	INFO	Listening on 127.0.0.1:44875
+1651677389691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55197" "-no-remote" "-profile" "/tmp/rust_mozprofilei2r8bw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651677394128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei2r8bw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55197/devtools/browser/812cc6d2-54e5-4194-8f52-8cab7f7dc2e7
+1651677400632	Marionette	INFO	Listening on port 42557
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1651677400937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651677419388	Marionette	INFO	Stopped listening on port 42557
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651677514033	geckodriver	INFO	Listening on 127.0.0.1:50793
+1651677514041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53941" "-no-remote" "-profile" "/tmp/rust_mozprofileh4NOza"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651677518569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh4NOza/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:53941/devtools/browser/8f09a11b-ca8a-4a07-a3d3-d2bb95dfb1ea
+1651677525199	Marionette	INFO	Listening on port 39799
+1651677525336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651677553108	Marionette	INFO	Stopped listening on port 39799
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1651677810654	geckodriver	INFO	Listening on 127.0.0.1:39261
+1651677811166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54235" "-no-remote" "-profile" "/tmp/rust_mozprofileB26rbG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651677815564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB26rbG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54235/devtools/browser/87c5665e-bf13-45aa-b2ad-58e939408d27
+1651677821531	Marionette	INFO	Listening on port 40433
+1651677821630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651677849173	Marionette	INFO	Stopped listening on port 40433
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651678145754	geckodriver	INFO	Listening on 127.0.0.1:44935
+1651678146266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46035" "-no-remote" "-profile" "/tmp/rust_mozprofile120nn2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651678150634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile120nn2/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:46035/devtools/browser/10474b97-fd71-4422-b84d-62a41837c77f
+1651678158336	Marionette	INFO	Listening on port 38781
+1651678159319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651678190498	Marionette	INFO	Stopped listening on port 38781
+1651678777827	geckodriver	INFO	Listening on 127.0.0.1:53901
+1651678777837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32775" "-no-remote" "-profile" "/tmp/rust_mozprofileMXEl0u"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651678782429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMXEl0u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32775/devtools/browser/2d2e9025-07dd-45d5-9a8c-ccda6342256e
+1651678788516	Marionette	INFO	Listening on port 34499
+1651678788654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/site/14031877, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14031877, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14031703, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14031703, line 651: { opened at line 651, column 19
+1651682895659	Marionette	INFO	Stopped listening on port 34499
+1651921240936	geckodriver	INFO	Listening on 127.0.0.1:52745
+1651921241381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51183" "-no-remote" "-profile" "/tmp/rust_mozprofile6rNQnL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651921245833	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6rNQnL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51183/devtools/browser/6ed98bb8-ac8f-491e-bb80-446b6ded8624
+1651921252228	Marionette	INFO	Listening on port 46087
+1651921252325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651921309045	Marionette	INFO	Stopped listening on port 46087
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651923648551	geckodriver	INFO	Listening on 127.0.0.1:34473
+1651923648561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43087" "-no-remote" "-profile" "/tmp/rust_mozprofileJns1p4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651923652943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJns1p4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43087/devtools/browser/cd355466-42ff-45db-9f51-b763bc9bc797
+1651923659294	Marionette	INFO	Listening on port 42885
+1651923659413	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651927772649	Marionette	INFO	Stopped listening on port 42885
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651936416161	geckodriver	INFO	Listening on 127.0.0.1:44613
+1651936416586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58829" "-no-remote" "-profile" "/tmp/rust_mozprofileRJ6xEK"
+*** You are running in headless mode.
+1651936419655	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRJ6xEK/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:58829/devtools/browser/ae0a1b24-3064-4fe2-9f46-67ececee9990
+1651936427139	Marionette	INFO	Listening on port 44423
+1651936427305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651936456740	Marionette	INFO	Stopped listening on port 44423
+1651938643046	geckodriver	INFO	Listening on 127.0.0.1:49239
+1651938643054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34255" "-no-remote" "-profile" "/tmp/rust_mozprofileyZEDy2"
+*** You are running in headless mode.
+1651938646234	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyZEDy2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34255/devtools/browser/7e4fba55-9a0a-4728-ad83-0eb440c3789c
+1651938652386	Marionette	INFO	Listening on port 41383
+1651938652507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651938660684	Marionette	INFO	Stopped listening on port 41383
+1651938682447	geckodriver	INFO	Listening on 127.0.0.1:37061
+1651938682455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "40675" "-no-remote" "-profile" "/tmp/rust_mozprofileRPKJwZ"
+*** You are running in headless mode.
+1651938685604	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRPKJwZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40675/devtools/browser/5a8bd86f-4e34-43b5-80c9-eeb6346f2110
+1651938692114	Marionette	INFO	Listening on port 37317
+1651938692291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651938796461	geckodriver	INFO	Listening on 127.0.0.1:33673
+1651938796976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56377" "-no-remote" "-profile" "/tmp/rust_mozprofilekHjDGG"
+*** You are running in headless mode.
+1651938800087	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekHjDGG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56377/devtools/browser/a804d7de-1301-400e-b337-1edd34c9340b
+1651938805895	Marionette	INFO	Listening on port 41187
+1651938806038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651938896125	geckodriver	INFO	Listening on 127.0.0.1:60879
+1651938896132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36089" "-no-remote" "-profile" "/tmp/rust_mozprofileex7C5c"
+*** You are running in headless mode.
+1651938899566	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileex7C5c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36089/devtools/browser/5867d1f5-4275-4625-aa53-e8ef2b62d928
+1651938905568	Marionette	INFO	Listening on port 46369
+1651938905694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1651939029983	geckodriver	INFO	Listening on 127.0.0.1:53333
+1651939029992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49893" "-no-remote" "-profile" "/tmp/rust_mozprofileFhlZqT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1651939034641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFhlZqT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49893/devtools/browser/abecbe75-6976-46fe-9f8e-327e78a5207f
+1651939040696	Marionette	INFO	Listening on port 36337
+1651939040747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1651939061601	Marionette	INFO	Stopped listening on port 36337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1651939190800	geckodriver	INFO	Listening on 127.0.0.1:53091
+1651939191308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46529" "-no-remote" "-profile" "/tmp/rust_mozprofilecDbVuu"
+*** You are running in headless mode.
+1651939194804	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecDbVuu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46529/devtools/browser/a2a676fe-7ac3-4d00-b27e-075dcbe32622
+1651939201153	Marionette	INFO	Listening on port 41471
+1651939201575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14029501, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14029501, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14029485, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14029485, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14029470, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14029470, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14029271, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14029271, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14028896, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14028896, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1651993137004	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652001638999	geckodriver	INFO	Listening on 127.0.0.1:48163
+1652001639476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36423" "-no-remote" "-profile" "/tmp/rust_mozprofiles5Al4E"
+*** You are running in headless mode.
+1652001644745	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles5Al4E/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:36423/devtools/browser/f93acc6a-e03a-45f0-acab-de5e6f2126f7
+1652001656205	Marionette	INFO	Listening on port 41579
+1652001656388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14026604, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14026604, line 651: { opened at line 651, column 19
+1652005528321	Marionette	INFO	Stopped listening on port 41579
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorBridge::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652006297994	geckodriver	INFO	Listening on 127.0.0.1:51133
+1652006298494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59639" "-no-remote" "-profile" "/tmp/rust_mozprofileux7XsH"
+*** You are running in headless mode.
+1652006302492	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileux7XsH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59639/devtools/browser/5977396a-b9da-4b63-9109-65cb90fa0d2b
+1652006308524	Marionette	INFO	Listening on port 46131
+1652006308611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14025758, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14025758, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14025446, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14025446, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652010067812	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652010344515	Marionette	INFO	Stopped listening on port 46131
+1652010506643	geckodriver	INFO	Listening on 127.0.0.1:45357
+1652010507152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35935" "-no-remote" "-profile" "/tmp/rust_mozprofile7Ns7Iz"
+*** You are running in headless mode.
+1652010513496	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Ns7Iz/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:35935/devtools/browser/9ce6318b-a2ba-4bd8-8889-d059a3fe3bf2
+1652010521060	Marionette	INFO	Listening on port 36019
+1652010521183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652010531490	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652010823202	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/site/14025001, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14025001, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14024825, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14024825, line 651: { opened at line 651, column 19
+1652014431492	Marionette	INFO	Stopped listening on port 36019
+1652029827258	geckodriver	INFO	Listening on 127.0.0.1:55039
+1652029827729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56117" "-no-remote" "-profile" "/tmp/rust_mozprofileFfYOBn"
+*** You are running in headless mode.
+1652029833051	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFfYOBn/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:56117/devtools/browser/6da9efa1-1553-423d-99bb-1a1747ff496e
+1652029843078	Marionette	INFO	Listening on port 34449
+1652029843275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14023769, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14023769, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14023378, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14023378, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14023082, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14023082, line 651: { opened at line 651, column 19
+1652034729252	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/site/14023034, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14023034, line 651: { opened at line 651, column 19
+1652034933368	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14022561, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14022561, line 651: { opened at line 651, column 19
+1652038014294	Marionette	INFO	Stopped listening on port 34449
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652196558533	geckodriver	INFO	Listening on 127.0.0.1:48023
+1652196559152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35709" "-no-remote" "-profile" "/tmp/rust_mozprofileTWHmRg"
+*** You are running in headless mode.
+1652196571114	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTWHmRg/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:35709/devtools/browser/4b53b8ad-3296-4cfe-bfc6-565e953d9556
+1652196585372	Marionette	INFO	Listening on port 46041
+1652196585681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652196767056	geckodriver	INFO	Listening on 127.0.0.1:40721
+1652196767065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "59261" "-no-remote" "-profile" "/tmp/rust_mozprofilelONxuW"
+*** You are running in headless mode.
+1652196773241	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelONxuW/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:59261/devtools/browser/b6fe77c3-8517-46da-aff1-604401728eb0
+1652196781061	Marionette	INFO	Listening on port 46357
+1652196781204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652196851113	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652197679058	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/site/14022009, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14022009, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14021281, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14021281, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14021212, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14021212, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14020358, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14020358, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14020315, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14020315, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14020078, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14020078, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14019799, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14019799, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14019670, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14019670, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14019464, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14019464, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14018982, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14018982, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14018775, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14018775, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14018750, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14018750, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14018683, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14018683, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14018674, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14018674, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14018055, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14018055, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14018052, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14018052, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14017498, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14017498, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14017185, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14017185, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14017179, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14017179, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14017170, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14017170, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14017168, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14017168, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14017010, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14017010, line 651: { opened at line 651, column 19
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652278034184	geckodriver	INFO	Listening on 127.0.0.1:33551
+1652278034648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "56241" "-no-remote" "-profile" "/tmp/rust_mozprofileXnwORE"
+*** You are running in headless mode.
+1652278041431	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXnwORE/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:56241/devtools/browser/1743cadf-cd2f-46a7-9da1-312ae2eebf61
+1652278055221	Marionette	INFO	Listening on port 34845
+1652278055664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652278327473	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/site/14016202, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14016202, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14015500, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14015500, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14015382, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14015382, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14015100, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14015100, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14015091, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14015091, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14015083, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14015083, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14013991, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14013991, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14013101, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14013101, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14013028, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14013028, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14012969, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14012969, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14012429, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14012429, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14012074, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14012074, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14011755, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14011755, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14011708, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14011708, line 651: { opened at line 651, column 19
+1652297884180	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14011590, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14011590, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14011534, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14011534, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652352085491	geckodriver	INFO	Listening on 127.0.0.1:34321
+1652352085969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46869" "-no-remote" "-profile" "/tmp/rust_mozprofilepdQiWB"
+*** You are running in headless mode.
+1652352095560	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepdQiWB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46869/devtools/browser/69ef4126-5716-47b9-9ba2-42eef553f5af
+1652352112220	Marionette	INFO	Listening on port 35283
+1652352112528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/site/14010172, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14010172, line 651: { opened at line 651, column 19
+1652352240107	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14009350, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14009350, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652355810101	Marionette	INFO	Stopped listening on port 35283
+1652357388239	geckodriver	INFO	Listening on 127.0.0.1:51919
+1652357388720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "51371" "-no-remote" "-profile" "/tmp/rust_mozprofilepPeUQP"
+*** You are running in headless mode.
+1652357396829	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepPeUQP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51371/devtools/browser/47e3b6c0-0be8-4b5d-8585-e1974265433f
+1652357406931	Marionette	INFO	Listening on port 34415
+1652357407178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/site/14008946, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14008946, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14008753, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14008753, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14008685, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14008685, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14008668, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14008668, line 651: { opened at line 651, column 19
+1652359503079	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14008331, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14008331, line 651: { opened at line 651, column 19
+1652361358194	Marionette	INFO	Stopped listening on port 34415
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652361547417	geckodriver	INFO	Listening on 127.0.0.1:59731
+1652361547920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "58709" "-no-remote" "-profile" "/tmp/rust_mozprofileFucvpJ"
+*** You are running in headless mode.
+1652361551358	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFucvpJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58709/devtools/browser/5753f828-c8f5-41b6-b369-69ad6f465290
+1652361558342	Marionette	INFO	Listening on port 44477
+1652361558416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652362535045	geckodriver	INFO	Listening on 127.0.0.1:41145
+1652362535557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "55131" "-no-remote" "-profile" "/tmp/rust_mozprofilekIF9vB"
+*** You are running in headless mode.
+1652362538663	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekIF9vB/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:55131/devtools/browser/0b3e851f-8548-43ca-95ae-82847581857b
+1652362545303	Marionette	INFO	Listening on port 43191
+1652362545440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/site/14007950, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14007950, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652364008166	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/site/14007557, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14007557, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14006961, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14006961, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14006868, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14006868, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14006688, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14006688, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14006381, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14006381, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14006037, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14006037, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14005667, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14005667, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14005437, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14005437, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14005413, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14005413, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14005207, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14005207, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14004777, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14004777, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14004450, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14004450, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14004287, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14004287, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14004255, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14004255, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652378396940	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14003748, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14003748, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14003729, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14003729, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14003718, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14003718, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14003334, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14003334, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14003301, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14003301, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652382880188	Marionette	INFO	Stopped listening on port 43191
+1652690331926	geckodriver	INFO	Listening on 127.0.0.1:33649
+1652690332398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "43697" "-no-remote" "-profile" "/tmp/rust_mozprofilePdO1pL"
+*** You are running in headless mode.
+1652690343028	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePdO1pL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43697/devtools/browser/86c069b0-319d-4761-9a87-80dab9f9a584
+1652690357464	Marionette	INFO	Listening on port 33571
+1652690357663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/site/14002639, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14002639, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14002568, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14002568, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/14002401, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14002401, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652694683387	Marionette	INFO	Stopped listening on port 33571
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1652695158020	geckodriver	INFO	Listening on 127.0.0.1:33435
+1652695158506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "35021" "-no-remote" "-profile" "/tmp/rust_mozprofileSKLVAI"
+*** You are running in headless mode.
+1652695164056	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSKLVAI/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:35021/devtools/browser/c84a8208-c6b6-4666-b562-50a57686e353
+1652695173818	Marionette	INFO	Listening on port 46183
+1652695174023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14001729, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14001729, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/14001189, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14001189, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1652699389512	Marionette	INFO	Stopped listening on port 46183
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
