@@ -1610,3 +1610,34 @@ JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028
 
 ###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
 
+1652812395318	geckodriver	INFO	Listening on 127.0.0.1:37473
+1652812395786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "46991" "-no-remote" "-profile" "/tmp/rust_mozprofilew7xsic"
+*** You are running in headless mode.
+1652812400687	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew7xsic/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:46991/devtools/browser/3cdcb061-f210-4d1c-bd10-922e346908cd
+1652812413118	Marionette	INFO	Listening on port 46441
+1652812413427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652812883920	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1652813201121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: http://wotreplays.ru/site/14000573, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/14000573, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/site/13999751, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/13999751, line 651: { opened at line 651, column 19
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
