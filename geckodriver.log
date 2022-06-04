@@ -1724,3 +1724,44 @@ JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1654327801153	geckodriver	INFO	Listening on 127.0.0.1:52541
+1654327801622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "50533" "-no-remote" "-profile" "/tmp/rust_mozprofileJj10IW"
+*** You are running in headless mode.
+1654327809689	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJj10IW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50533/devtools/browser/78c8bef8-cd47-47c0-868d-a52461e92825
+1654327818986	Marionette	INFO	Listening on port 35253
+1654327819267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/site/13996529, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/13996529, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/13996520, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/13996520, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/13996227, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/13996227, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/site/13996159, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/13996159, line 651: { opened at line 651, column 19
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+JavaScript error: http://wotreplays.ru/assets/aeb9cebd/wr.full.min.js, line 3028: TypeError: t.data[replayViewWgId] is null
+1654331732338	Marionette	INFO	Stopped listening on port 35253
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654332272823	geckodriver	INFO	Listening on 127.0.0.1:44481
+1654332273320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "60491" "-no-remote" "-profile" "/tmp/rust_mozprofileNZUGy4"
+*** You are running in headless mode.
+1654332282096	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNZUGy4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60491/devtools/browser/ee39cfe2-6b63-4414-8913-2794425f3528
+1654332292366	Marionette	INFO	Listening on port 35765
+1654332292490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://mc.yandex.ru/metrika/watch.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://wotreplays.ru/site/13995530, line 652: SyntaxError: missing } after property list
+JavaScript note: http://wotreplays.ru/site/13995530, line 651: { opened at line 651, column 19
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
